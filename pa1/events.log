@@ -1,0 +1,19 @@
+Process 3 (pid 18431, parent 18428) has STARTED
+Process 3 received all STARTED messages
+Process 3 has DONE its work
+Process 3 received all DONE messages
+Process 2 (pid 18430, parent 18428) has STARTED
+Process 2 received all STARTED messages
+Process 2 has DONE its work
+Process 2 received all DONE messages
+Process 1 (pid 18429, parent 18428) has STARTED
+Process 1 received all STARTED messages
+Process 1 has DONE its work
+Process 1 received all DONE messages
+Process 0 (pid 18428, parent  4388) has STARTED
+Process 0 received all STARTED messages
+Process 0 has DONE its work
+Process 0 received all DONE messages
+Process 18431 exit.
+Process 18430 exit.
+Process 18429 exit.

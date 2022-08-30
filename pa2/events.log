@@ -1,0 +1,24 @@
+0: process 1 (pid  4550, parent  4549) has STARTED with balance $10
+0: process 1 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+5: process 1 received $ 1 from process 5
+5: process 1 has DONE with balance $10
+Process 1 can't received.
+Process 1 done failed.
+0: process 2 (pid  4551, parent  4549) has STARTED with balance $20
+0: process 2 received all STARTED messages
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+5: process 2 has DONE with balance $19
+Process 2 can't received.
+Process 2 done failed.
+0: process 0 (pid  4549, parent  4432) has STARTED with balance $ 0
+0: process 0 received all STARTED messages
+5: process 0 has DONE with balance $ 0
+Process 0 can't received.
+Process 0 done failed.
+Process 4550 exit.
+Process 4551 exit.
+Process 4552 exit.
+Process 4553 exit.
+Process 4554 exit.
